@@ -71,6 +71,7 @@ jobs:
           echo "DEFAULT_BRANCH=$DEFAULT_BRANCH"
           echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
           echo "PROYECTO=PRY02" >> $GITHUB_ENV
+          echo "PROY_DESCR=Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales" >> $GITHUB_ENV
           echo "PR10=PR10. Detalle de los ítems de la empresa FNA impactados por el proyecto" >> $GITHUB_ENV
       - name: Cache
         uses: actions/cache@v3
