@@ -73,6 +73,8 @@ jobs:
           echo "PROYECTO=PRY02" >> $GITHUB_ENV
           echo "PROY_DESCR=Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales" >> $GITHUB_ENV
           echo "PR10=PR10. Detalle de los ítems de la empresa FNA impactados por el proyecto" >> $GITHUB_ENV
+          echo "PRY11=PR11. Detalle de los recursos, herramientas, roles, responsabilidades y participantes" >> $GITHUB_ENV
+          echo "PRY12=PR12. Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​" >> $GITHUB_ENV
       - name: Cache
         uses: actions/cache@v3
         with:
