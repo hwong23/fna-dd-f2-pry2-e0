@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-25" />
   <meta name="citation_publication_date" content="2023-06-25" />
   <meta property="article:published_time" content="2023-06-25" />
-  <meta name="dc.modified" content="2023-06-25T17:25:04+00:00" />
-  <meta property="article:modified_time" content="2023-06-25T17:25:04+00:00" />
+  <meta name="dc.modified" content="2023-06-25T17:35:05+00:00" />
+  <meta property="article:modified_time" content="2023-06-25T17:35:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/26c8b4eec618dd51dc59f0dfc5011739f1dae514/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/26c8b4eec618dd51dc59f0dfc5011739f1dae514/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/26c8b4eec618dd51dc59f0dfc5011739f1dae514/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/26c8b4eec618dd51dc59f0dfc5011739f1dae514/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@26c8b4e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@f6c144c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 25, 2023.
 </em></small>
 
-|    **Versión** del producto 1.26c8b4e de 25 Jun 2023
+|    **Versión** del producto 1.f6c144c de 25 Jun 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.26c8b4e del 25 Jun 2023 |
+| Versión        | 1.f6c144c del 25 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -172,31 +172,31 @@ tablenos-caption-name: Tabla
 > 
 >    25 Jun 2023
 >
->    **Versión** 1.26c8b4e
+>    **Versión** 1.f6c144c
 
 <br>
 
 # Producto 10: PR10. Detalle de los ítems de la empresa FNA impactados por el proyecto
-Lista de las partes de la arquitectura actual del FNA relacionados con el diseño de la arquitectura de referencia SOA 2.0, ==objeto del proyecto==.
+Lista de las partes de la arquitectura actual del FNA relacionados con el diseño de la arquitectura de referencia SOA 2.0, objeto del proyecto.
 
-**Nota**: el resultado de este producto está dirigido a cumplir los objetivos del proyecto PRY02, Proyecto 2 (PRY02). Arquitectura Referencia 2.0 SOA FNA: desarrollo y gestión de arquitectura de referencia.
+**Nota**: el resultado de este producto está dirigido a cumplir los objetivos del proyecto PRY02. Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales: desarrollo, sostenibilidad (gestión) de arquitectura de referencia.
 
 <br>
 
 ## Justificación
-Facilitar la aprobación de los contenidos de los entregables del proyecto PRY01, Gobierno SOA, en su  Etapa 0, tal que garantice la continuidad y ejecución de la etapa
+Adelantar la aprobación por parte del Fondo Naconal del Ahorro de los contenidos de los entregables del proyecto PRY02, en su  Etapa 0, de la Hoja de Ruta E-Service, tal que garantice su continuidad y ejecución.
 
 ## Contenidos
-1. Vista de segmento de la empresa, campo de acción del proyecto
-1. Justificación del segmento de la empresa susceptibles de gobierno
-1. Flujos críticos de trabajo sensibles al gobierno (relación con E-Service, Fase I)
+1. Vista de segmento de la empresa, campo de acción del proyecto PRY02
+1. Justificación del segmento de la empresa requerido por el trabajo de arquitectura SOA de referencia 2.0
+1. Iniciativas y brechas sensibles al trabajo de arquitectura de referencia 2.0 (relación con E-Service, Fase I)
 
 <br>
 
 ## Criterios de Aceptación
 
-* Lista de los ítems de arquitectura y flujos críticos de trabajo sujetos al gobierno SOA
-* Descripción de los ítems del segmento de la empresa del proyecto 1 (PRY01), gobierno SOA FNA
+* Lista de los ítems de arquitectura y brechas críticas del trabajo atendidos por la arquitectura de referencia SOA 2.0 del FNA
+* Descripción de los ítems del segmento de la empresa del proyecto 2 (PRY02), Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales
 
 <br>
 
@@ -225,7 +225,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.26c8b4e del 25 Jun 2023                                               |
+| Version        | 1.f6c144c del 25 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
