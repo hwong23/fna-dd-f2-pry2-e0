@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-25" />
   <meta name="citation_publication_date" content="2023-06-25" />
   <meta property="article:published_time" content="2023-06-25" />
-  <meta name="dc.modified" content="2023-06-25T17:35:05+00:00" />
-  <meta property="article:modified_time" content="2023-06-25T17:35:05+00:00" />
+  <meta name="dc.modified" content="2023-06-25T17:46:57+00:00" />
+  <meta property="article:modified_time" content="2023-06-25T17:46:57+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/b6a00b753554f6fe1c712ad447619dd442fdfc8e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/b6a00b753554f6fe1c712ad447619dd442fdfc8e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/b6a00b753554f6fe1c712ad447619dd442fdfc8e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f6c144cbbcbf8db9b4940c39c13d87785c058976/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/b6a00b753554f6fe1c712ad447619dd442fdfc8e/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@f6c144c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@b6a00b7](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 25, 2023.
 </em></small>
 
-|    **Versión** del producto 1.f6c144c de 25 Jun 2023
+|    **Versión** del producto 1.b6a00b7 de 25 Jun 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.f6c144c del 25 Jun 2023 |
+| Versión        | 1.b6a00b7 del 25 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -172,7 +172,7 @@ tablenos-caption-name: Tabla
 > 
 >    25 Jun 2023
 >
->    **Versión** 1.f6c144c
+>    **Versión** 1.b6a00b7
 
 <br>
 
@@ -225,7 +225,7 @@ fignos-caption-name: Imagen
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.f6c144c del 25 Jun 2023                                               |
+| Version        | 1.b6a00b7 del 25 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -317,6 +317,52 @@ Este componente está orientado a la instauración del Gobierno de Arquitectura;
 Es un objetivo a cumplir para los procesos definnidos en esta fase: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
 
 <br>
+
+
+>    E-Service. Fase II
+> 
+>    PRY02. Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales
+> 
+>    Contrato 1812020
+> 
+>    FNA, Stefanini
+> 
+>    25 Jun 2023
+>
+>    **Versión** 1.b6a00b7
+
+<br>
+
+# Producto 12: 
+La arquitectura SOA de referencia SOA 2.0 del FNA, objeto de este proyecto, la forman las estructuras e integraciones de productos y servicios SOA. Esta arquitectura de referencia incorpora las mejores prácticas aceptadas del sector (cuáles), y es el soporte de entrega de tecnologías específicas. La arquitectura de referencia 2.0 del FNA es la línea base del FNA para la implementación de soluciones tecnológicas complejas.
+
+(opcional) La Vicepresidencia de Tecnología y Transformación es la responsable de definir y evolucionar las arquitecturas de referencia tecnológicas, con el propósito de orientar el diseño de cualquier arquitectura de solución bajo parámetros, patrones y atributos de calidad definidos por la entidad, teniendo en cuenta los principios de diseño de servicios digitales, definidos en el Manual de Gobierno.
+
+<br>
+
+## Justificación
+La problemática a partir de la cual se planteó el producto 2, Arquitectura de Referencia 2.0 del Fondo Nacional del Ahorro (PR02), se relaciona con la prevalencia de fortalcer y optiminzar las arquitecturas de servicos SOA y apicaciones del FNA, de acuerdo con los análisis realizados en la Fase I, E-Service. Esta permitirá optimizar las arquitecturas de solución del FNA, analizando el conjunto de zonas y sus componentes base, principios, metodologías, estándares, lineamientos y tecnologías, con el fin de permitir a los usuarios interesados diseñar arquitecturas de soluciones, basados en estos conjuntos.
+
+## Contenidos
+1. Diseño y representación de la Arquitectura de Referencia 2.0 del FNA (Mega Hopex)
+2. Consideraciones para implementar la arquitectura de referencia
+3. Vistas lógicas y conceptuales de los sistemas de información
+4. Documentación técnica de la Arquitectura de Referencia 2.0 del FNA
+
+## Criterios de Aceptación <br>
+* Vistas lógicas y conceptuales de los sistemas de información
+* Validación de la Arquitectura de Referencia 2.0 del FNA [- Plantilla "Gestión y Gobierno Arquitectura Empresarial (Mega Hopex) MIPG, MRAE, Marco Transformación Digital, TOGAF"]
+
+<br>
+
+## Modelo de Implementación del PRY02
+![Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Agosto 2023](images/pry2.jpg){#fig: width=lin}
+
+_Fuente: Elaboración propia._
+
+<br>
+
+*** 
 
 
 # Referencias {.page_break_before}
