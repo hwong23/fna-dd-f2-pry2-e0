@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-24'
+date-meta: '2023-06-25'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-06-24" />
-  <meta name="citation_publication_date" content="2023-06-24" />
-  <meta property="article:published_time" content="2023-06-24" />
-  <meta name="dc.modified" content="2023-06-24T22:15:43+00:00" />
-  <meta property="article:modified_time" content="2023-06-24T22:15:43+00:00" />
+  <meta name="dc.date" content="2023-06-25" />
+  <meta name="citation_publication_date" content="2023-06-25" />
+  <meta property="article:published_time" content="2023-06-25" />
+  <meta name="dc.modified" content="2023-06-25T02:50:58+00:00" />
+  <meta property="article:modified_time" content="2023-06-25T02:50:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -72,10 +72,10 @@ manubot-clear-requests-cache: false
 <small><em>Este producto ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/f03879aecc0fc2abca2aab4b79dcc67f14ce4356/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
 [Sharepoint STEF@f03879a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 24, 2023.
+del June 25, 2023.
 </em></small>
 
-|    **Versión** del producto 1.f03879a de 24 Jun 2023
+|    **Versión** del producto 1.f03879a de 25 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.f03879a del 24 Jun 2023 |
+| Versión        | 1.f03879a del 25 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -161,7 +161,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 > 
 >    FNA, Stefanini
 > 
->    24 Jun 2023
+>    25 Jun 2023
 >
 >    **Versión** 1.f03879a
 
