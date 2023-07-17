@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-17" />
   <meta name="citation_publication_date" content="2023-07-17" />
   <meta property="article:published_time" content="2023-07-17" />
-  <meta name="dc.modified" content="2023-07-17T23:36:24+00:00" />
-  <meta property="article:modified_time" content="2023-07-17T23:36:24+00:00" />
+  <meta name="dc.modified" content="2023-07-17T23:47:49+00:00" />
+  <meta property="article:modified_time" content="2023-07-17T23:47:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/ae68d11ee7bc2d3bd7d6560180e49e6f532c0f52/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/ae68d11ee7bc2d3bd7d6560180e49e6f532c0f52/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/ae68d11ee7bc2d3bd7d6560180e49e6f532c0f52/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7eb0811d4dd2cf8a0d0fdb55876e9765d26adcb4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7eb0811d4dd2cf8a0d0fdb55876e9765d26adcb4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7eb0811d4dd2cf8a0d0fdb55876e9765d26adcb4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/ae68d11ee7bc2d3bd7d6560180e49e6f532c0f52/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7eb0811d4dd2cf8a0d0fdb55876e9765d26adcb4/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@ae68d11](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@7eb0811](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 17, 2023.
 </em></small>
 
-|    **Versión** del producto 1.ae68d11 de 17 Jul 2023
+|    **Versión** del producto 1.7eb0811 de 17 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.ae68d11 del 17 Jul 2023 |
+| Versión        | 1.7eb0811 del 17 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 > 
 >    17 Jul 2023
 >
->    **Versión** 1.ae68d11
+>    **Versión** 1.7eb0811
 
 <br>
 
@@ -224,7 +224,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Version        | 1.ae68d11 del 17 Jul 2023            |
+| Version        | 1.7eb0811 del 17 Jul 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -369,7 +369,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 > 
 >    17 Jul 2023
 >
->    **Versión** 1.ae68d11
+>    **Versión** 1.7eb0811
 
 <br>
 
@@ -412,7 +412,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ae68d11** del 17 Jul 2023                       |
+| Versión        | **1.7eb0811** del 17 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -434,7 +434,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ae68d11** del 17 Jul 2023                       |
+| Versión        | **1.7eb0811** del 17 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -453,7 +453,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.ae68d11** del 17 Jul 2023                       |
+| Versión        | **1.7eb0811** del 17 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -476,7 +476,7 @@ _Fuente: Elaboración propia._
 > 
 >    17 Jul 2023
 >
->    **Versión** 1.ae68d11
+>    **Versión** 1.7eb0811
 
 <br>
 
@@ -496,7 +496,7 @@ La Arquitecturas de referencias 2.0 es la responsable de definir y evolucionar l
 1. Diseño y representación de la Arquitectura de Referencia 2.0 del FNA
 2. Consideraciones para implementar la arquitectura de referencia
 3. Vistas lógicas y conceptuales de los sistemas de información
-4. Documentación técnica de la Arquitectura de Referencia 2.0 del FNA
+4. Documentación técnica 0.1 de la Arquitectura de Referencia 2.0 del FNA
 
 <br>
 
@@ -508,65 +508,6 @@ La Arquitecturas de referencias 2.0 es la responsable de definir y evolucionar l
 
 ## Modelo de Implementación del PRY02
 ![Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Agosto 2023](images/pry2.png){#fig: width=}
-
-_Fuente: Elaboración propia._
-
-<br>
-
-
-<div style="page-break-before: always;"></div>
-\newpage
-
->    E-Service. Fase II
->
->    PRY02. Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales
->
->    Contrato 1812020
->
->    FNA, Stefanini
->
->    17 Jul 2023
->
->    **Versión** 1.ae68d11
-
-<br>
-
-# Producto 13: PR013. 
-El principal entregable de este producto son los modelos de arquitevtura de referencia 2.0 del FNA. Para la mayoría de los casos, y en este contexto, los modelos refieren a conjuntos información de ingeniería (no se agotan en solo diagramas o documentos) relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA representados con el lenguaje de descripción de arquitectura designado, que para el caso es Archimatye 3.0. Nota: distintos modelos de igual importancia que la arquitectura del FNA pueden estar representados en otros lenguajes de componentes, procesos de negocio, rndimiento, redes de comunicaciones.
-
-Otro entregable primario de este producto es la documentación técnica inicial con la que denotamos a las espeficaciones de línea base de la arquitectura de referencia 2.0 del FNA. Siendo que esta información textual puede ser considerada como discreta y de que no puede ser verificada (distinta de los modelos), sigue teniendo la ventaja de que es fácil de comunicar.
-
-Juntos, los modelos y las especificaciones y requerimientos de arquitectura, estos entregables constituyen lo que llamamos la Arquitectura de Referencia SOA 2.0 del FNA, y que además de ser una línea base, tiene la responsabilidad adicional de ser la hoja de ruta y, por tanto, guía de la transformación de las arquitectura estado actual hacia esta nueva versión.
-
-**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
-
-<br>
-
-## Justificación
-La representación de la información de ingeniería relevante a los sistemas de información, servicios, componentes y herramientas de software del FNA en elementos de un modelo de arquitecturas supone algunas ventajas frente a la información textual, y de cualquier otro tipo, y de ahí el mérito de estos. Una de estas ventajas es que los modelos pueden acopiar y _asociarse (mapear) con requerimientos de arquitectura mediante unidades de trabajo accionables como épicas, casos de uso, historias y escenarios_. Además, los modelos comportan la ventaja de que son verificables y de fácil transporte. Pero ninguna de estas razones es lo más importante. La verdadera justificación de tener modelado de esta arquitectura de referencia 2.0 (en un lenguaje de descripción de arquitectura) es que el FNA cuente con la creación de un entorno centrado en modelos, el cual, deja abierta la posiblida de la aplicación de técnicas y creación de productos de ingeniería.
-
-
-## Contenidos
-1. Detalle de ítems de la arquitectura de referencia SOA 2.0 del FNA
-1. Repositorio de arquitectura del FNA, actualizado, versión 0.5
-1. Herramienta de navegación del repositorio de arquitectura del FNA versión 0.2
-
-<br>
-
-## Criterios de Aceptación
-* Repositorio de arquitectura del FNA, actualizado, versión 0.2
-* Herramienta de navegación del repositorio de arquitectura del FNA versión 0.2
-
-<br>
-
-## Repositorio de Arquitectura del FNA, versión 0.1
-![Artefactos del repositorio de arquitectura del FNA.](images/repofna.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-
-## Modelo de Implementación del PRY02
-![Plan de Implementación del Proyecto Arquitectura de Referencia SOA 2.0 del FNA (PRY02), 2023. Junio 2023 a julio 2023](images/pry1gobierno.jpg){#fig: width=}
 
 _Fuente: Elaboración propia._
 
