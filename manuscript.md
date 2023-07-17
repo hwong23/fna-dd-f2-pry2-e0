@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-13'
+date-meta: '2023-07-17'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-07-13" />
-  <meta name="citation_publication_date" content="2023-07-13" />
-  <meta property="article:published_time" content="2023-07-13" />
-  <meta name="dc.modified" content="2023-07-13T13:20:44+00:00" />
-  <meta property="article:modified_time" content="2023-07-13T13:20:44+00:00" />
+  <meta name="dc.date" content="2023-07-17" />
+  <meta name="citation_publication_date" content="2023-07-17" />
+  <meta property="article:published_time" content="2023-07-17" />
+  <meta name="dc.modified" content="2023-07-17T17:43:51+00:00" />
+  <meta property="article:modified_time" content="2023-07-17T17:43:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/d27a03619fc7ffabab8790637bf1b7f57eb9200d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/d27a03619fc7ffabab8790637bf1b7f57eb9200d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/d27a03619fc7ffabab8790637bf1b7f57eb9200d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/cdec5c70042f97309b77ca58afb3fcc4a8290119/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/cdec5c70042f97309b77ca58afb3fcc4a8290119/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/cdec5c70042f97309b77ca58afb3fcc4a8290119/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/d27a03619fc7ffabab8790637bf1b7f57eb9200d/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/cdec5c70042f97309b77ca58afb3fcc4a8290119/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@d27a036](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 13, 2023.
+[Sharepoint STEF@cdec5c7](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 17, 2023.
 </em></small>
 
-|    **Versión** del producto 1.d27a036 de 13 Jul 2023
+|    **Versión** del producto 1.cdec5c7 de 17 Jul 2023
 
 
 
@@ -131,26 +131,6 @@ del July 13, 2023.
 
 
 
-## Objetivo del Documento
-Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: Políticas, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
-
-
-##  Control de Cambios {.page_break_before}
-| Tema           | PRY01 Gobierno SOA FNA     |
-|----------------|----------------------------|
-| Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
-| Autor          |                            |
-| Fuente         |                            |
-| Versión        | 1.d27a036 del 13 Jul 2023 |
-| Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
-
-<br>
-
-<br>
-
-<div style="page-break-before: always;"></div>
-
-
 ---
 geometry:
   - top=1in
@@ -161,7 +141,34 @@ fignos-caption-name: Imagen
 tablenos-caption-name: Tabla
 ...
 
-***
+## Objetivo del Documento
+Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: Políticas, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
+
+
+##  Control de Cambios {.page_break_before}
+| Tema           | PRY01 Gobierno SOA FNA     |
+|----------------|----------------------------|
+| Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
+| Autor          |                            |
+| Fuente         |                            |
+| Versión        | 1.cdec5c7 del 17 Jul 2023 |
+| Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
+
+<br>
+
+<br>
+
+<div style="page-break-before: always;"></div>
+
+
+
+## Contenidos
+\toc
+
+
+
+<div style="page-break-before: always;"></div>
+\newpage
 
 >    E-Service. Fase II
 > 
@@ -171,9 +178,9 @@ tablenos-caption-name: Tabla
 > 
 >    FNA, Stefanini
 > 
->    13 Jul 2023
+>    17 Jul 2023
 >
->    **Versión** 1.d27a036
+>    **Versión** 1.cdec5c7
 
 <br>
 
@@ -195,7 +202,6 @@ Adelantar la aprobación por parte del Fondo Naconal del Ahorro de los contenido
 <br>
 
 ## Criterios de Aceptación
-
 * Lista de los ítems de arquitectura y brechas críticas del trabajo atendidos por la arquitectura de referencia SOA 2.0 del FNA
 * Descripción de los ítems del segmento de la empresa del proyecto 2 (PRY02), Arquitectura de Referencia SOA 2.0 del FNA
 
@@ -210,24 +216,15 @@ _Fuente: Elaboración propia._
 
 
 
----
-title: Vista de Contexto
-geometry:
-  - top=1in
-  - bottom=1in
-fignos-cleveref: True
-fignos-plus-name: Fig.
-fignos-caption-name: Imagen
-...
-
-*** 
+<div style="page-break-before: always;"></div>
+\newpage
 
 | Tema           | Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto** |
 |----------------|--------------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Version        | 1.d27a036 del 13 Jul 2023            |
+| Version        | 1.cdec5c7 del 17 Jul 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -359,7 +356,8 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 <br>
 
 
-*** 
+<div style="page-break-before: always;"></div>
+\newpage
 
 >    E-Service. Fase II
 > 
@@ -369,9 +367,9 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 > 
 >    FNA, Stefanini
 > 
->    13 Jul 2023
+>    17 Jul 2023
 >
->    **Versión** 1.d27a036
+>    **Versión** 1.cdec5c7
 
 <br>
 
@@ -383,12 +381,12 @@ Este producto define los elementos mínimales para garantizar la vigencia y ejer
 <br>
 
 ## Justificación
-Los objetuvos del Gobierno SOA del FNA (Proyecto 1, E-Service, Fase II): Mantenimiento de Relación Negocio - Arquitectura (G-OBJG), y Seguimiento a cambios en la arquitectura de referencia (G-OBJS3) exigen la mantenibiliad de la arquitectura de referencia, responsable de 1) dirigir y evolucionar las soluciones tecnológica del FNA, 2) de orientar el diseño de las estas, y 3) ser el instrumento de control para hacer cumplir los principios de diseño de servicios SOA del FNA y del Manual de Gobierno. Para lograr estos objetivos y responsabilidadas dadas, es necesario que desde este proyecto se detallen los recursos, herramientas, roles, responsabilidades y participantes que garanticen que los procesos y operaciones de gestión, cambio y vigencia de la arquitectura de referencia sean puestos en marcha cuando el FNA así lo considere.
+Los objetivos del Gobierno SOA del FNA (Proyecto 1, E-Service, Fase II): Mantenimiento de Relación Negocio - Arquitectura (G-OBJG), y Seguimiento a cambios en la arquitectura de referencia (G-OBJS3) exigen la mantenibiliad de la arquitectura de referencia, responsable de 1) dirigir y evolucionar las soluciones tecnológica del FNA, 2) de orientar el diseño de las estas, y 3) ser el instrumento de control para hacer cumplir los principios de diseño de servicios SOA del FNA y del Manual de Gobierno. Para lograr estos objetivos y responsabilidadas dadas, es necesario que desde este proyecto se detallen los recursos, herramientas, roles, responsabilidades y participantes que garanticen que los procesos y operaciones de gestión, cambio y vigencia de la arquitectura de referencia sean puestos en marcha cuando el FNA así lo considere.
 
 ## Contenidos
 1. Flujo de trabajo del mantenimiento de la arquitectura de referencia (Oficina de arquitectura del FNA)
-1. Principios y operaciones de manteniento de la arquitectura de referencia (Oficina de arquitectura del FNA)
-1. Matriz de responsabilidades del manteniiento de la arquitectura de referencia (Oficina de arquitectura del FNA)
+1. Principios y operaciones de mantenimiento de la arquitectura de referencia (Oficina de arquitectura del FNA)
+1. Matriz de responsabilidades del mantenimiento de la arquitectura de referencia (Oficina de arquitectura del FNA)
 
 <br>
 
@@ -406,6 +404,15 @@ _Fuente: Elaboración propia._
 <br>
 
 
+
+
+1. Flujo de trabajo del mantenimiento de la arquitectura de referencia (Oficina de arquitectura del FNA)
+1. Principios y operaciones de mantenimiento de la arquitectura de referencia (Oficina de arquitectura del FNA)
+1. Matriz de responsabilidades del mantenimiento de la arquitectura de referencia (Oficina de arquitectura del FNA)
+
+<br>
+
+
 ***
 
 >    E-Service. Fase II
@@ -416,9 +423,9 @@ _Fuente: Elaboración propia._
 > 
 >    FNA, Stefanini
 > 
->    13 Jul 2023
+>    17 Jul 2023
 >
->    **Versión** 1.d27a036
+>    **Versión** 1.cdec5c7
 
 <br>
 
