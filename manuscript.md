@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-19" />
   <meta name="citation_publication_date" content="2023-07-19" />
   <meta property="article:published_time" content="2023-07-19" />
-  <meta name="dc.modified" content="2023-07-19T15:44:57+00:00" />
-  <meta property="article:modified_time" content="2023-07-19T15:44:57+00:00" />
+  <meta name="dc.modified" content="2023-07-19T16:08:13+00:00" />
+  <meta property="article:modified_time" content="2023-07-19T16:08:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/734edc21f6088c33c66833f188f38664e0bef665/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/734edc21f6088c33c66833f188f38664e0bef665/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/734edc21f6088c33c66833f188f38664e0bef665/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/1061209d3ed8efbaebb6fc423f760fb1eba7c712/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/1061209d3ed8efbaebb6fc423f760fb1eba7c712/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/1061209d3ed8efbaebb6fc423f760fb1eba7c712/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/734edc21f6088c33c66833f188f38664e0bef665/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/1061209d3ed8efbaebb6fc423f760fb1eba7c712/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@734edc2](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@1061209](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 19, 2023.
 </em></small>
 
-|    **Versión** del producto 1.734edc2 de 19 Jul 2023
+|    **Versión** del producto 1.1061209 de 19 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.734edc2 del 19 Jul 2023 |
+| Versión        | 1.1061209 del 19 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 > 
 >    19 Jul 2023
 >
->    **Versión** 1.734edc2
+>    **Versión** 1.1061209
 
 <br>
 
@@ -224,7 +224,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Version        | 1.734edc2 del 19 Jul 2023            |
+| Version        | 1.1061209 del 19 Jul 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -369,7 +369,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 > 
 >    19 Jul 2023
 >
->    **Versión** 1.734edc2
+>    **Versión** 1.1061209
 
 <br>
 
@@ -412,7 +412,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.734edc2** del 19 Jul 2023                       |
+| Versión        | **1.1061209** del 19 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -420,7 +420,9 @@ _Fuente: Elaboración propia._
 # Separación de Conceptos y Procesos de Arquitectura e Ingeniería
 Iniciamos por separar los conceptos pertinentes a la arquitectura y a la ingeniería para luego desarrollar con claridad y mayor libertad los temas de la primera, como son el flujo de trabajo de mantenimiento de arquitecturas.
 
-Definimos en este proyecto a la gestión de las arquitecturas de referencia del FNA como un enfoque centrado en modelos para desarrollar, mantener y entregar soluciones de arquitectura independiente de otros métodos y productos de la ingeniería de sistemas. Distinto a esta última, el foco de la arquitectura es la integración de los trabajos de ingenierías independientes necesarias para la implementación y despliegue de artefactos ejecutables.
+Definimos en este proyecto a la gestión de las arquitecturas de referencia del FNA como un enfoque centrado en modelos para desarrollar, mantener y entregar soluciones de arquitectura independiente de otros métodos y productos de la ingeniería de sistemas. Distinto a esta última, el foco de la arquitectura es la integración de propiedades sistémicas en los aportes y trabajos de ingenierías independientes necesarios para la implementación y despliegue de artefactos ejecutables.
+
+    Importante. La distición de la arquitecgtura (respecto de la ingeniería), en este contexto, es el foco en integrar propiedades de los sistemas, y su optimización, entre la construcción de ingenierías independientes, como datos, infraestructura, redes.
 
 Sin perjuicio de esta separación, la gestión y desarrollo de arquitecturas de referencias (en adelante arquitectura de referencia FNA, que incluye en el alcance de este proyecto a servicios SOA, herramientas de software y componentes), _por estar inmersa en la disciplina de ingeniería de sistemas aunque independiente_, hereda muchas de estas formas de trabajo, además de los cuidados de calidad que a esta se le exigen. Por ejemplo, desde la perspectiva de sistemas en la que se encuentra inmersa el desarrollo de arquitecturas del FNA, esta hace foco en los propiedades sistémicas (o características de calidad no funcional), entre las que se incluyen a la funcionalidad, estructura, rendimiento, seguridad, confiabilidad.
 
@@ -440,7 +442,7 @@ Esta necesaria separación de conceptos facilita el operar las arquitecturas, y 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.734edc2** del 19 Jul 2023                       |
+| Versión        | **1.1061209** del 19 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -467,7 +469,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.734edc2** del 19 Jul 2023                       |
+| Versión        | **1.1061209** del 19 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -490,7 +492,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 > 
 >    19 Jul 2023
 >
->    **Versión** 1.734edc2
+>    **Versión** 1.1061209
 
 <br>
 
@@ -541,7 +543,7 @@ _Fuente: Elaboración propia._
 >
 >    19 Jul 2023
 >
->    **Versión** 1.734edc2
+>    **Versión** 1.1061209
 
 <br>
 
