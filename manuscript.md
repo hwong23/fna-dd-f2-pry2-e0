@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-20" />
   <meta name="citation_publication_date" content="2023-07-20" />
   <meta property="article:published_time" content="2023-07-20" />
-  <meta name="dc.modified" content="2023-07-20T21:26:36+00:00" />
-  <meta property="article:modified_time" content="2023-07-20T21:26:36+00:00" />
+  <meta name="dc.modified" content="2023-07-20T21:30:23+00:00" />
+  <meta property="article:modified_time" content="2023-07-20T21:30:23+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/4c999eaa4c41fb69dcf04bf1321de818d86a9281/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/4c999eaa4c41fb69dcf04bf1321de818d86a9281/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/4c999eaa4c41fb69dcf04bf1321de818d86a9281/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a447b16c49ebebc3b9d91f3490ff25350187d8bb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a447b16c49ebebc3b9d91f3490ff25350187d8bb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a447b16c49ebebc3b9d91f3490ff25350187d8bb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,13 +67,13 @@ manubot-clear-requests-cache: false
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/4c999eaa4c41fb69dcf04bf1321de818d86a9281/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a447b16c49ebebc3b9d91f3490ff25350187d8bb/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@4c999ea](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@a447b16](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 20, 2023.
 </em></small>
 
-|    **Versión** del producto 1.4c999ea de 20 Jul 2023
+|    **Versión** del producto 1.a447b16 de 20 Jul 2023
 
 
 
@@ -151,7 +151,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.4c999ea del 20 Jul 2023 |
+| Versión        | 1.a447b16 del 20 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,7 +180,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 > 
 >    20 Jul 2023
 >
->    **Versión** 1.4c999ea
+>    **Versión** 1.a447b16
 
 <br>
 
@@ -224,7 +224,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Version        | 1.4c999ea del 20 Jul 2023            |
+| Version        | 1.a447b16 del 20 Jul 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -369,7 +369,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 > 
 >    20 Jul 2023
 >
->    **Versión** 1.4c999ea
+>    **Versión** 1.a447b16
 
 <br>
 
@@ -412,7 +412,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.4c999ea** del 20 Jul 2023                       |
+| Versión        | **1.a447b16** del 20 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -481,12 +481,22 @@ Estos procedimientos facilitadores son:
 
 <br>
 
+
+11a1.md
 ### Gestión del Trabajo de Arquitectura
 Bajo el principio de mantener simple los procesos y procedimientos, definimos la gestión de los trabajos requeridos para mantener a las arquitecturas de referencia FNA como un pila (conjunto) priorizada de ítems de trabajo de arquitectura (ITA, en adelante) que contiene y comunica, distinto a un plan, únicamente el trabajo por realizar. 
 
 Un ITA, ítem de trabajo de arquitectura, puede ser cualquiera de los requerimientos de trabajo para los que el flujo FLARQ03 está optimizado, esto es, transiciones, interfaces, reformas, controles, integraciones, análisis o simplificaciones. Otros tipos de requerimientos se pueden agregar sin perjuicio de estos.
 
 <br>
+
+### Medición Del Progreso Del Trabajo
+## Exploración De Riesgos Técnicos De Las Arquitecturas De Referencia
+## Descomposición Del Trabajo
+## Organización De Elementos Y Modelamiento
+## Emisión De Transiciones De Las Arquitecturas De Referencia
+
+
 
 <div style="page-break-before: always;"></div>
 \newpage
@@ -496,7 +506,7 @@ Un ITA, ítem de trabajo de arquitectura, puede ser cualquiera de los requerimie
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.4c999ea** del 20 Jul 2023                       |
+| Versión        | **1.a447b16** del 20 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -523,7 +533,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 | Palabras clave | SOA, Arquitectura de referencia, Flujo de trabajo, tareas, actividades, roles, acciones                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.4c999ea** del 20 Jul 2023                       |
+| Versión        | **1.a447b16** del 20 Jul 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -546,7 +556,7 @@ Los principios del FNA necesarios para el mantenimiento de una arquitectura son 
 > 
 >    20 Jul 2023
 >
->    **Versión** 1.4c999ea
+>    **Versión** 1.a447b16
 
 <br>
 
@@ -597,7 +607,7 @@ _Fuente: Elaboración propia._
 >
 >    20 Jul 2023
 >
->    **Versión** 1.4c999ea
+>    **Versión** 1.a447b16
 
 <br>
 
