@@ -10,7 +10,7 @@ date-meta: '2023-08-02'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
-- Sergio Andrés Castro Hernandez, ing.
+- Sergio Andres Castro Hernandez, ing.
 - Viviana M. Martinez, ing.
 header-includes: |
   <!--
@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-02" />
   <meta name="citation_publication_date" content="2023-08-02" />
   <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T17:04:53+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T17:04:53+00:00" />
+  <meta name="dc.modified" content="2023-08-02T17:10:16+00:00" />
+  <meta property="article:modified_time" content="2023-08-02T17:10:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -38,7 +38,7 @@ header-includes: |
   <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
   <meta name="citation_author" content="Wilson Morales, ing." />
   <meta name="citation_author_institution" content="Software, Aplicaciones" />
-  <meta name="citation_author" content="Sergio Andrés Castro Hernandez, ing." />
+  <meta name="citation_author" content="Sergio Andres Castro Hernandez, ing." />
   <meta name="citation_author_institution" content="SOA, Arquitectura" />
   <meta name="citation_author" content="Viviana M. Martinez, ing." />
   <meta name="citation_author_institution" content="Analista, Proyectos" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/91a6f75787c5490495fda8a96eebc6fe14fa594b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/91a6f75787c5490495fda8a96eebc6fe14fa594b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/91a6f75787c5490495fda8a96eebc6fe14fa594b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/9a1938f479d9bf34f21f5214b493700ae69bebc0/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/9a1938f479d9bf34f21f5214b493700ae69bebc0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/9a1938f479d9bf34f21f5214b493700ae69bebc0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/91a6f75787c5490495fda8a96eebc6fe14fa594b/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/9a1938f479d9bf34f21f5214b493700ae69bebc0/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@91a6f75](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@9a1938f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.91a6f75 de 02 Aug 2023
+|    **Versión** del producto 1.9a1938f de 02 Aug 2023
 
 
 
@@ -113,10 +113,10 @@ del August 2, 2023.
      Software, Aplicaciones
   </small>
 
-+ **Sergio Andrés Castro Hernandez, ing.**
++ **Sergio Andres Castro Hernandez, ing.**
   <br>
     · ![Usuario](images/github.svg){.inline_icon width=16 height=16}
-    [fhernandez](https://github.com/fhernandez)
+    [scastro](https://github.com/scastro)
     <br>
   <small>
      SOA, Arquitectura
@@ -162,7 +162,7 @@ Entrega de los productos de la Etapa 0, PR10. Detalle de los ítems de la empres
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.91a6f75 del 02 Aug 2023 |
+| Versión        | 1.9a1938f del 02 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -191,7 +191,7 @@ Entrega de los productos de la Etapa 0, PR10. Detalle de los ítems de la empres
 > 
 >    02 Aug 2023
 >
->    **Versión** 1.91a6f75
+>    **Versión** 1.9a1938f
 
 <br>
 
@@ -235,7 +235,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Versión        | 1.91a6f75 del 02 Aug 2023            |
+| Versión        | 1.9a1938f del 02 Aug 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
