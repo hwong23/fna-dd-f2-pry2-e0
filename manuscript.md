@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-02'
+date-meta: '2023-08-09'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-02" />
-  <meta name="citation_publication_date" content="2023-08-02" />
-  <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T17:26:58+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T17:26:58+00:00" />
+  <meta name="dc.date" content="2023-08-09" />
+  <meta name="citation_publication_date" content="2023-08-09" />
+  <meta property="article:published_time" content="2023-08-09" />
+  <meta name="dc.modified" content="2023-08-09T10:18:20+00:00" />
+  <meta property="article:modified_time" content="2023-08-09T10:18:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a60f4344e8b6ea728a47ab27c1c43e1af1a31d38/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a60f4344e8b6ea728a47ab27c1c43e1af1a31d38/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a60f4344e8b6ea728a47ab27c1c43e1af1a31d38/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7213cde74d44cfb959a74d808934f9e939e3c2e8/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7213cde74d44cfb959a74d808934f9e939e3c2e8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7213cde74d44cfb959a74d808934f9e939e3c2e8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/a60f4344e8b6ea728a47ab27c1c43e1af1a31d38/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e0/v/7213cde74d44cfb959a74d808934f9e939e3c2e8/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@a60f434](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 2, 2023.
+[Sharepoint STEF@7213cde](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 9, 2023.
 </em></small>
 
-|    **Versión** del producto 1.a60f434 de 02 Aug 2023
+|    **Versión** del producto 1.7213cde de 09 Aug 2023
 
 
 
@@ -162,7 +162,7 @@ Entrega de los productos de la Etapa 0, PR10. Detalle de los ítems de la empres
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.a60f434 del 02 Aug 2023 |
+| Versión        | 1.7213cde del 09 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -189,9 +189,9 @@ Entrega de los productos de la Etapa 0, PR10. Detalle de los ítems de la empres
 > 
 >    FNA, Stefanini
 > 
->    02 Aug 2023
+>    09 Aug 2023
 >
->    **Versión** 1.a60f434
+>    **Versión** 1.7213cde
 
 <br>
 
@@ -235,7 +235,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Versión        | 1.a60f434 del 02 Aug 2023            |
+| Versión        | 1.7213cde del 09 Aug 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -280,8 +280,9 @@ El diseño de servicios y soluciones, constituye una competencia a desarrollar y
 * Atención de problemas
 * Atención de incidentes
 
+<br>
 
-El Diseño de Servicios y Soluciones, garantiza una prestación ágil y escalable de servicios y soluciones digitales del FNA, además de oportunas y rentables, capaces de apoyar los objetivos trazados en la vista de segmento de esta etapa del proyecto.
+Este proceso de diseño busca garantizar una prestación ágil y escalable de servicios y soluciones digitales del FNA, además de oportunas y rentables, capaces de apoyar los objetivos trazados en la vista de segmento de esta etapa del proyecto.
 
 Estas soluciones digitales pueden adoptar varias formas, desde aplicaciones móviles, plataformas en línea, software personalizado, y sistemas de gestión empresarial, entre otros.
 
